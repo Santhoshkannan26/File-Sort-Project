@@ -36,6 +36,8 @@ After Running the Script:
 ![image](https://github.com/user-attachments/assets/480ab584-6ca3-4cbf-9848-cc629346b3b6)
 ![image](https://github.com/user-attachments/assets/a29e12cc-9ae3-4d9e-a0b8-31daa0bb8aac)
 
+Keeping your files organized manually can be time-consuming. File-Sort-Project automates the process, ensuring your directories remain structured and clutter-free with minimal effort.
+This script is lightweight, easy to use, and highly customizable—perfect for anyone looking to manage files efficiently.
 
 Feel free to fork this repository, make improvements, and submit a pull request! 
 
